@@ -1,12 +1,12 @@
-Project Name: task_manager.py
+##Project Name: task_manager.py
 
-Content:
+###Content:
  - Description
  - Installation
  - Instructions
  - Authors
 
- - Description:
+### - Description:
 This is an application for logging tasks,
 being able to edit those tasks when needed and marking those tasks as complete.
 When adding a task, information stored:
@@ -16,14 +16,14 @@ This application also allows other users to be registered and add their own task
 The final component of this application is generating reports for all tasks and each user,
 with percentages and totals based on tasks; complete, incomplete, and overdue.
 
- - Installation:
+### - Installation:
 Application current does not have an installation method other than downloading and running
 the code in an IDE or text editor.
 
- - Instructions:
+### - Instructions:
 Similar to the description, you will be prompted with a login section, use the commented
 login details at the top of the code.
 Then the rest is fairly self-explanatory, add tasks, register users, generate reports.
 
- - Authors:
+### - Authors:
 Jacob - https://github.com/JayBW1
